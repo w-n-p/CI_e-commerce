@@ -69,13 +69,13 @@
                     echo "active";
                 }
                 ?>"><a href="<?php echo base_url('/product'); ?>">Products</a> </li>
-                    <?php if ($this->cart->total_items()) { ?>
+                    <!-- <?php if ($this->cart->total_items()) { ?>
                     <li class="<?php
                     if ($this->uri->uri_string() == 'cart') {
                         echo "active";
                     }
                     ?>"><a href="<?php echo base_url('/cart'); ?>">Cart</a></li>
-                    <?php } ?>
+                    <?php } ?> -->
                 <li class="<?php
                 if ($this->uri->uri_string() == 'contact') {
                     echo "active";
