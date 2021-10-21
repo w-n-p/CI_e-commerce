@@ -60,7 +60,7 @@
                                     <input type="text" name="customer_address" placeholder="Enter Your Address">
                                 </div>
                                 
-                                <div>
+                                <!-- <div>
                                     <select id="country" name="customer_country" class="frm-field required">
                                         <option value="null">Select a Country</option>         
                                         <option value="Afghanistan">Afghanistan</option>
@@ -69,7 +69,7 @@
                                         <option value="India">India</option>
 
                                     </select>
-                                </div>		
+                                </div>		 -->
 
                                 <div>
                                     <input type="text" name="customer_zipcode" placeholder="Enter Your ZipCode">

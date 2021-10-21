@@ -38,7 +38,7 @@
                                                 this.value = 'Address';
                                             }">
                                 </div>
-                                <div>
+                                <!-- <div>
                                     <select id="country" name="country" onchange="change_country(this.value)" class="frm-field required">
                                         <option value="null">Select a Country</option>         
                                         <option value="AF">Afghanistan</option>
@@ -56,7 +56,7 @@
 
 
                                     </select>
-                                </div>		        
+                                </div>		         -->
 
                                 <div>
                                     <input type="text" value="Phone" onfocus="this.value = '';" onblur="if (this.value == '') {

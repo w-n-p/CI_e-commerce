@@ -41,7 +41,7 @@
                                     <input type="text" name="shipping_address" placeholder="Enter Your Address">
                                 </div>
                                 
-                                <div>
+                                <!-- <div>
                                     <select id="country" name="shipping_country" class="frm-field required">
                                         <option value="null">Select a Country</option>         
                                         <option value="Afghanistan">Afghanistan</option>
@@ -60,7 +60,7 @@
                                         <option value="USA">USA</option>
 
                                     </select>
-                                </div>		
+                                </div>		 -->
 
                                 
                             </td>
